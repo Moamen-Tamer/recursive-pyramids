@@ -17,7 +17,6 @@ This project demonstrates how to print left-aligned and right-aligned pyramids u
 
 - Recursion
 - Loops
-- String formatting
 - Input/output in C++
 
 ### 🚀 How to Run
